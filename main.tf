@@ -1,4 +1,5 @@
 ## ----------------------------------------------------------------------------
+## Copyright 2017-2022 Cloud Posse, LLC
 ## Copyright 2026 Raring Group LLC
 ##
 ## Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,6 +13,9 @@
 ## WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ## See the License for the specific language governing permissions and
 ## limitations under the License.
+##
+## Modified from upstream cloudposse/terraform-aws-sns-topic (0.20.2) by Raring Group LLC:
+## uses the Raring Group context module (module.context) in place of cloudposse/label/null (module.this).
 ## ----------------------------------------------------------------------------
 
 locals {

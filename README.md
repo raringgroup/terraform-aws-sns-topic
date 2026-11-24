@@ -335,7 +335,7 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
 Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-Derived from the upstream Cloud Posse module [terraform-aws-sns-topic](https://github.com/cloudposse/terraform-aws-sns-topic).
+Copyright 2026 Raring Group LLC. Portions derived from the upstream Cloud Posse module [terraform-aws-sns-topic](https://github.com/cloudposse/terraform-aws-sns-topic), Copyright 2017-2022 Cloud Posse, LLC.
 
 ## Trademarks
 
